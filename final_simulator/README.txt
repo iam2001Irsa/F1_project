@@ -11,3 +11,6 @@ Main Files
 - main.py : user input interface
 - results.py : simulation output display
 - simulation.py : core simulation logic
+
+To run:
+streamlit run src/main.py (from root)

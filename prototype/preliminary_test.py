@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 
 # Load the CSV file
-df = pd.read_csv("2024-Abu Dhabi Grand Prix-Race.csv")
+df = pd.read_csv("2024 grandprix abu dhabi.csv")
 
 # Take first 20 rows
 df_sample = df.head(10)
